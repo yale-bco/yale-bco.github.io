@@ -95,16 +95,16 @@ keywords: "yale,college,orchestra,music,classical,performance"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
-text-col: "#404040"
-link-col: "#008AFF"
+navbar-col: "#000000"
+navbar-text-col: "#b30000"
+navbar-border-col: "#000000"
+page-col: "#000000"
+text-col: "#ffffff"
+link-col: "#b30000"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
-footer-text-col: "#777777"
-footer-link-col: "#404040"
+footer-col: "#000000"
+footer-text-col: "#ffffff"
+footer-link-col: "#b30000"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
