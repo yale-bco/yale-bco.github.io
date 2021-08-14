@@ -95,10 +95,10 @@ keywords: "yale,college,orchestra,music,classical,performance"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#2f2f2f"
+navbar-col: "#000000"
 navbar-text-col: "#b30000"
 navbar-border-col: "#000000"
-page-col: "#2f2f2f"
+page-col: "#000000"
 text-col: "#ffffff"
 link-col: "#b30000"
 hover-col: "#0085A1"
